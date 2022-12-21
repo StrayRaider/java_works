@@ -18,6 +18,7 @@ public class Main{
         for(int i=0;i<array.length;i++){
             intList.add(array[i]);
             }
+	    System.out.println(intList); 		
 	    for (int i = 0; i < intList.size();i++){ 		      
 	        System.out.println(intList.get(i)); 		
 	        }

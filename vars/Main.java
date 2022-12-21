@@ -1,5 +1,10 @@
 public class Main {
     public static void main(String[] args){
+
+    double a = (double)5/2;
+    System.out.println(a);
+
+
     int age = 19;
     System.out.println(age);
     float age_f = 19.02f;
